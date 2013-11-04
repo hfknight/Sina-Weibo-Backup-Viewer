@@ -1,0 +1,129 @@
+/* start customize */
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #F7F7F7;
+  /*font:15px/1.3 'Raleway', sans-serif;*/
+}
+a {
+  text-decoration: none;
+}
+#gen_to_clipboard {
+
+}
+.index_auth {
+  background: #F1D5D3;
+  padding: 40px;
+}
+.weibo_auth_verification {
+  margin-top: 40px;
+}
+.label {
+  font-size: 85%;
+}
+.greeting {
+  display: table-cell;
+  padding-left: 20px;
+  vertical-align: middle;
+}
+.greeting span {
+  color: #3a87ad;
+}
+.jumbotron {
+  background: #bce8f1;
+}
+.jumbotron h1.page_title {
+  margin-bottom: 40px;
+}
+.jumbotron .profile_avatar {
+  display: table-cell;
+}
+.jumbotron p {
+  display: inline-block;
+}
+
+#copy_board .modal-body textarea {
+    min-height: 400px;
+}
+.weibo_rs {
+
+}
+.wb_tweet {
+	background: #D3E8E3;
+	padding: 10px;
+	margin: 10px 5px;
+}
+.wb_tweet_rt {
+  background: #C9D7E4;
+  margin-top: 10px;
+  padding: 18px;
+}
+.wb_tweet_content {
+    margin-bottom: 4px;
+}
+.wb_rt_user {
+  display: inline-block;
+  margin: 0;
+  vertical-align: top;
+}
+
+.wb_rt_text {
+  display: inline-block;
+  max-width: 80%;
+}
+.wb_tweet_content > a, .wb_rt_text > a {
+  padding-left: 4px;
+}
+.wb_tweet_img, .wb_rt_img {
+  display: inline-block;
+  padding: 4px;
+}
+.wb_tweet_img > a {
+    display: inline-block;
+    width: auto;
+}
+.wb_rt_date {
+  font-weight: 300;
+  margin-left: 4px;
+}
+.wb_tweet_tags, .wb_rt_tags {
+  margin-bottom: 10px;
+}
+.wb_date .icon, .wb_rt_user .icon {
+    padding-right: 4px;
+}
+.wb_reposts, .wb_comments {
+  margin-left: 10px;
+}
+.view_comments {
+  cursor: pointer;
+}
+.view_comments:hover {
+  background-color: #41A3BF;
+}
+.label-info > em {
+    padding-left: 2px;
+}
+.modal-body > img {
+    width: 100%;
+}
+#footer {
+height: 60px;
+}
+
+#footer .container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+  text-align: center;
+}
+.popover {
+    max-width: 800px;
+    width: auto;
+}
+.progress {
+  width: 100%;
+}
+.comment_date {
+  margin-left: 20px;
+}
