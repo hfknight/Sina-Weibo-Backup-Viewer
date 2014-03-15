@@ -130,7 +130,16 @@
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
 
-      
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- Ads on Blog -->
+      <ins class="adsbygoogle"
+           style="display:inline-block;width:728px;height:90px"
+           data-ad-client="ca-pub-1577772095777827"
+           data-ad-slot="4424924593"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script> 
+
       <div class="weibo_rs">
         <?php  
 
@@ -193,5 +202,6 @@
       ga('send', 'pageview');
 
     </script>  
+   
   </body>
 </html>  
