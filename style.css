@@ -46,7 +46,10 @@ a {
     min-height: 400px;
 }
 .weibo_rs {
-
+  margin-top: 40px;
+}
+.weibo_rs h4{
+  margin-left: 14px;
 }
 .wb_tweet {
 	background: #D3E8E3;
@@ -126,4 +129,8 @@ height: 60px;
 }
 .comment_date {
   margin-left: 20px;
+}
+.adsbygoogle {
+  display: block !important;
+  margin: 0 auto;
 }
